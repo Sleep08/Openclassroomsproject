@@ -1,0 +1,47 @@
+body {
+    background-image: url("plat_quatre.JPG");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 50% 265px;
+    
+}
+
+.logo_cookomie {
+
+    text-align: center;
+}
+
+.annonce {
+    width: 420px;
+    text-align: justify;
+    margin-left: 34%;
+    font-size: 0.9em;
+    font-style: bold;
+}
+
+ul#nav {
+    margin-top: -40px;
+    list-style-type:none;
+    margin:O;
+    padding:O;
+    position:center;
+    font-style: oblique;
+    }
+    
+ul#nav li {
+    display:inline;
+    padding:5px 0;
+    }
+    
+ul#nav a {
+    padding:10px 2em 10px 2em;
+    position:center;
+    text-decoration:none;
+    color:#B78E64;
+    font-family:Times New Roman;
+}
+
+.logos {
+    margin-left: 57%;
+}
